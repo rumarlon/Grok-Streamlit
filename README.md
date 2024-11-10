@@ -22,7 +22,7 @@ source venv/bin/activate
 ```
 4) Install requirements
 ```
-pip install -r requiremnts
+pip install -r requiremnts.txt
 ```
 5) Paste your key in `.streamlit/secrets.toml` 
 ```
