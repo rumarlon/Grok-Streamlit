@@ -7,9 +7,9 @@ The following instructions will help you deploy a Streamlit app in a python envi
 
 ### Setup requirements as tested:
 
-1) MacOS Sequoia 
-2) Python 3.12.4
-3) Grok API Key (sign up and get one at [Grok Console](https://console.x.ai/) as of 11/24 you get a free $25 credit monthly until 1/25)
+* MacOS Sequoia 
+* Python 3.12.4
+* Grok API Key (sign up and get one at [Grok Console](https://console.x.ai/) as of 11/24 you get a free $25 credit monthly until 1/25)
 
 ### Step by step:
 
