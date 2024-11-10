@@ -17,7 +17,7 @@ This app leverages Streamlit, feel free to checkout their docs and other example
 ```
 git clone https://github.com/rumarlon/Grok-Streamlit.git
 ```
-2) Create python environment
+2) Create python environment (preferably not in the directory you cloned)
 ```
 python -m venv venv
 ```
