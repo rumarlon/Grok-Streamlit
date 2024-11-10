@@ -3,6 +3,8 @@ _Get Started with Grok_
 
 *tl:dr* This is a simple implementation of streamlit for Grok. This is not a production app but rather it provides an opportunity to explore Grok capabilities.  There are currently two paths to implement Grok API access, OpenAI SDK or Anthropic SDK. This app was built leveraging OpenAI SDK.
 
+This app leverages Streamlit, feel free to checkout their docs and other examples [here](https://streamlit.io).
+
 ## Setup requirements as tested:
 
 1) MacOS Sequoia 
