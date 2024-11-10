@@ -48,5 +48,7 @@ To:
 {"role": "system", "content": "Your new prompt goes here"}
 ```
 
+## Troubleshooting
 
+If you get an API access error make sure you have a valid Grok API key and that the key is properly pasted in `.streamlit/secrets.toml`.
 
