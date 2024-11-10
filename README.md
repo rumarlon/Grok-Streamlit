@@ -39,6 +39,7 @@ streamlit run main.py
 ```
 7) Your browser should open with a working streamlit app.
 8) Try a user prompt example, "What is the meaning of life, the universe, and everything?"
+9) Get creative and test some other user prompts keeping in mind the system prompt currently is "You are Grok, a chatbot inspired by the Hitchhikers Guide to the Galaxy.".
 
 ## What to do next?
 
