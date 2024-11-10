@@ -50,7 +50,7 @@ From:
 ```
 To:
 ```
-{"role": "system", "content": "Your new prompt goes here"}
+{"role": "system", "content": "Your new awesome prompt goes here"}
 ```
 
 ## Troubleshooting
