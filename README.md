@@ -13,7 +13,10 @@ This app leverages Streamlit, feel free to checkout their docs and other example
 
 ### Step by step
 
-1) Clone this repo
+1) Clone this repo to the directory of your choice
+```
+git clone https://github.com/rumarlon/Grok-Streamlit.git
+```
 2) Create python environment
 ```
 python -m venv venv
