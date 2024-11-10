@@ -29,7 +29,7 @@ source venv/bin/activate
 ```
 pip install -r requiremnts.txt
 ```
-5) Paste your key in `.streamlit/secrets.toml` 
+5) Paste your Grok API key in `.streamlit/secrets.toml` 
 ```
 XAI_API_KEY="xai-restofyourkey"
 ```
