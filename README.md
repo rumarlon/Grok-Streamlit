@@ -39,7 +39,7 @@ streamlit run main.py
 
 ## What to do next?
 
-Go ahead and change the system prompt and see what you can do with Grok. Sky is the limit!
+Go ahead and change the system prompt and see what you can do with Grok. The prompt is in the [main.py](https://github.com/rumarlon/Grok-Streamlit/blob/master/main.py). Sky is the limit!
 
 From:
 ```
