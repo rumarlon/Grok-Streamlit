@@ -5,7 +5,7 @@ _Get Started with Grok_
 
 The following instructions will help you deploy a Streamlit app in a python environment on your Mac, feel free to checkout their docs and other examples [here](https://streamlit.io).
 
-## Setup requirements as tested:
+### Setup requirements as tested:
 
 1) MacOS Sequoia 
 2) Python 3.12.4
