@@ -27,7 +27,7 @@ source venv/bin/activate
 ```
 4) Install requirements
 ```
-pip install -r requiremnts.txt
+pip install -r requirements.txt
 ```
 5) Paste your Grok API key in `.streamlit/secrets.toml` 
 ```
