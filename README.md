@@ -11,7 +11,7 @@ The following instructions will help you deploy a Streamlit app in a python envi
 
 * MacOS Sequoia 
 * Python 3.12.4
-* Grok API Key (sign up and get one at [Grok Console](https://console.x.ai/) as of 11/24 you get a free $25 credit monthly until 1/25)
+* Grok API Key - Do not commit this in your code or share with others unintetionally. (sign up and get one at [Grok Console](https://console.x.ai/) as of 11/24 you get a free $25 credit monthly until 1/25)
 
 ### Step by step:
 
@@ -52,7 +52,7 @@ streamlit run main-vision.py
 
 ## What to do next?
 
-Go ahead and change the system prompt and see what you can do with Grok. The prompt is in the [main.py](https://github.com/rumarlon/Grok-Streamlit/blob/master/main.py). Sky is the limit!
+Go ahead and change the system prompt and see what you can do with Grok. The prompt is in the [main.py](https://github.com/rumarlon/Grok-Streamlit/blob/master/main.py) or [main-vision.py](https://github.com/rumarlon/Grok-Streamlit/blob/master/main-vision.py). You must restart the python app after updating the system prompt. Sky is the limit!
 
 From:
 ```
