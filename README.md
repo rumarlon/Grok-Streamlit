@@ -3,6 +3,8 @@ _Get Started with Grok_
 
 *tl:dr* This is a simple implementation of Streamlit for Grok. This is not a production app but rather it provides an opportunity to explore Grok capabilities with a local app that calls the Grok API.  There are currently two SDKs to implement Grok API access, OpenAI SDK or Anthropic SDK. This app was built leveraging OpenAI SDK.
 
+*New Feature:* You can now use the `grok-vision-beta` which supports both text and image input.
+
 The following instructions will help you deploy a Streamlit app in a python environment on your Mac, feel free to checkout their docs and other examples [here](https://streamlit.io).
 
 ### Setup requirements as tested:
@@ -19,7 +21,7 @@ git clone https://github.com/rumarlon/Grok-Streamlit.git
 ```
 2) Create python environment (preferably not in the directory you cloned)
 ```
-python -m venv venv
+python3 -m venv venv
 ```
 3) Activate python environment
 ```
@@ -34,9 +36,15 @@ pip install -r requirements.txt
 XAI_API_KEY="xai-restofyourkey"
 ```
 6) Run your app
+Text only:
 ```
 streamlit run main.py
 ```
+Multimoddal (Text & Image)
+```
+streamlit run main-vision.py
+```
+
 7) Your browser should open with a working streamlit app
 8) Try a user prompt example, "What is the meaning of life, the universe, and everything?"
 9) Get creative and test some other user prompts keeping in mind the system prompt currently is "You are Grok, a chatbot inspired by the Hitchhikers Guide to the Galaxy."
